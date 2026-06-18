@@ -1,0 +1,5 @@
+[
+  { "id": 1, "nomeProjeto": "Migração Cloud", "cliente": "Banco Alfa", "status": "Em andamento" },
+  { "id": 2, "nomeProjeto": "Implementação SAP", "cliente": "Indústria Beta", "status": "Planejamento" },
+  { "id": 3, "nomeProjeto": "App Mobile", "cliente": "Varejo Gama", "status": "Concluído" }
+]

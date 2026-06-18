@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "titulo": "Lógica de Programação",
+    "instrutor": "Equipe SoulCode"
+  },
+  {
+    "id": 2,
+    "titulo": "Introdução ao Banco de Dados",
+    "instrutor": "Equipe SoulCode"
+  }
+]

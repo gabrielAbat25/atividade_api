@@ -1,0 +1,6 @@
+[
+  { "id": 1, "nome": "Carlos Silva", "trilha": "Java", "status": "Ativo" },
+  { "id": 2, "nome": "Mariana Souza", "trilha": "Data Science", "status": "Ativo" },
+  { "id": 3, "nome": "Fernando Costa", "trilha": "Front-End", "status": "Concluído" },
+  { "id": 4, "nome": "Ana Beatriz", "trilha": "SAP ABAP", "status": "Ativo" }
+]
